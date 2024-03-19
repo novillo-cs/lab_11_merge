@@ -1,1 +1,7 @@
-# lab_11_merge
+# Lab 11: Merge
+
+**Name:**
+
+**Period:**
+
+**Email:**
